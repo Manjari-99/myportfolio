@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
-/*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2295,24 +2290,26 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #A03535;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #61295C;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #2F2961;
+
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #A5B328;
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #D39E06;
 		}
+
 
 		@media screen and (max-width: 1680px) {
 
